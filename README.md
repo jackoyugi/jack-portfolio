@@ -1,12 +1,11 @@
 <h1>Jack portfolio<h1/>
 
-My first portfolio site
+<h2>My first portfolio site</h2>
 
-Hello world creating my first website
+<h3>Hello world creating my first website</h3>
 
-Jack Oyugi
+<h2>Jack Oyugi</he>
 
-Welcome to my coding page, year 2020. By Moringa School tution
+<p>Welcome to my coding page, year 2020. By Moringa School tution</p>
 
-Description
-This page is meant for learning coding at moringa. Am happy to be introduced to prgramming world
+<p>This page is meant for learning coding at moringa. Am happy to be introduced to prgramming world</p>

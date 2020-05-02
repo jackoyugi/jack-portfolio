@@ -1,8 +1,3 @@
-<style>
-  h1 {
-  color: green;
-  }
-  </style>
 <h1>Jack portfolio<h1/>
 
 <h2>My first portfolio site</h2>
